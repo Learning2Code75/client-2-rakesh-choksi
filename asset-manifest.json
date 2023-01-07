@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/client-2-rakesh-choksi/static/css/main.8171b0fc.css",
+    "main.js": "/client-2-rakesh-choksi/static/js/main.01abeae1.js",
+    "static/media/RakeshChoksiCV.pdf": "/client-2-rakesh-choksi/static/media/RakeshChoksiCV.e2093717ce9497ce7e74.pdf",
+    "static/media/side_profile.png": "/client-2-rakesh-choksi/static/media/side_profile.48a2215f3374507811bf.png",
+    "static/media/profile.jpg": "/client-2-rakesh-choksi/static/media/profile.14b68fa01e8ab4e134c9.jpg",
+    "static/media/brand.png": "/client-2-rakesh-choksi/static/media/brand.0b1f0f64ca5f4ac2e9ca.png",
+    "static/media/kiaana_logo.webp": "/client-2-rakesh-choksi/static/media/kiaana_logo.430e874718e4e55a3292.webp",
+    "static/media/siyarams.jpg": "/client-2-rakesh-choksi/static/media/siyarams.7adb4de1a9e541198613.jpg",
+    "static/media/portico.avif": "/client-2-rakesh-choksi/static/media/portico.16a7546b0c1122c481f7.avif",
+    "index.html": "/client-2-rakesh-choksi/index.html",
+    "main.8171b0fc.css.map": "/client-2-rakesh-choksi/static/css/main.8171b0fc.css.map",
+    "main.01abeae1.js.map": "/client-2-rakesh-choksi/static/js/main.01abeae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8171b0fc.css",
+    "static/js/main.01abeae1.js"
+  ]
+}

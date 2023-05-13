@@ -17,11 +17,11 @@ const Info = () => {
         <span className="about__subtitle">7+ brands</span>
       </div>
 
-      <div className="about__box">
+      {/* <div className="about__box">
         <CiMoneyCheck1 className="about__icon" />
         <h3 className="about__title">Present Renumeration</h3>
         <span className="about__subtitle">20 Lac</span>
-      </div>
+      </div> */}
     </div>
   );
 };
